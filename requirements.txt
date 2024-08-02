@@ -2,7 +2,7 @@ numpy==1.18.5
 matplotlib==3.2.2
 pandas==1.0.5
 fuzzywuzzy==0.18.0
-keras==2.4.3
+keras==2.13.1
 librosa==0.8.0
 pyenchant==3.1.1
 python_speech_features==0.6
